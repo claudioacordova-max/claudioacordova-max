@@ -23,7 +23,6 @@ Most of my focus goes to backend development, but I like keeping things balanced
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
 
 ---
-
 ## 🌱 What I'm into right now
 - Building APIs that don’t cry when they scale ⚙️  
 - Learning more about **cloud deployments** ☁️  
@@ -31,7 +30,25 @@ Most of my focus goes to backend development, but I like keeping things balanced
 - Making my frontends *just good enough* so users smile 😎  
 
 ---
+## 🌎 Spanish | Español
 
+<details>  
+  <summary>📂 Sobre mí</summary>  
+
+# Hey 👋, Soy Clau  
+
+💻 Curioso del mundo tech y fan de todo lo que huela a **informática** 🤖.  
+Me divierte crear herramientas que hagan el trabajo por mí (porque la vida es muy corta para tareas repetitivas 🌀).  
+
+🌱 Últimamente me enfoco en:  
+- **Automatización de procesos** (Python, SQL, Bash).  
+- **APIs y backend**.  
+- **Cloud (AWS & GCP)** para llevar las ideas a la nube ☁️.  
+- Explorando cómo la **IA** puede hacer que los proyectos sean más inteligentes 🤯.  
+
+</details>  
+
+---
 ## 🎯 Fun facts
 - I drink too much ☕ when debugging.  
 - I like mixing serious backend work with fun side-projects.  
