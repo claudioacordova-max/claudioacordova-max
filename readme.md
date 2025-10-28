@@ -1,6 +1,7 @@
 # 👋 Hey there, I'm Clau
 
-## 💻 Fullstack Dev (but with a ❤️ for the Backend)
+## 👨‍💻 Full-Stack Dev turning ideas into code.
+
 
 I enjoy building projects end-to-end, from setting up databases and APIs to crafting smooth frontends.  
 Most of my focus goes to backend development, but I like keeping things balanced.  
@@ -21,13 +22,21 @@ Most of my focus goes to backend development, but I like keeping things balanced
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ---
-## 🌱 What I'm into right now
-- Building APIs that don’t cry when they scale ⚙️  
-- Learning more about **cloud deployments** ☁️  
-- Experimenting with **automation scripts** 🛠️  
-- Making my frontends *just good enough* so users smile 😎  
+## 🔎What I'm into lately
+- Developing full-stack projects using Python ot JS, and SQL to build functional solutions.
+- Creating APIs and automations to connect with external services and optimize workflows.
+- Deploying my projects on AWS and GCP, exploring new ways to improve performance and scalability.
+
+--
+If you like what I do or want to chat about a project, message me on [LinkedIn](https://www.linkedin.com/in/claucordovab/)
+
 
 ---
 ## 🌎 Spanish | Español
@@ -37,19 +46,18 @@ Most of my focus goes to backend development, but I like keeping things balanced
 
 # Hey 👋, Soy Clau  
 
-💻 Curioso del mundo tech y fan de todo lo que huela a **informática** 🤖.  
-Me divierte crear herramientas que hagan el trabajo por mí (porque la vida es muy corta para tareas repetitivas 🌀).  
+💻Disfruto de todo el ciclo, desde la idea inicial hasta el despliegue en nube.
 
-🌱 Últimamente me enfoco en:  
-- **Automatización de procesos** (Python, SQL, Bash).  
-- **APIs y backend**.  
-- **Cloud (AWS & GCP)** para llevar las ideas a la nube ☁️.  
-- Explorando cómo la **IA** puede hacer que los proyectos sean más inteligentes 🤯.  
+
+🔎 Últimamente me enfoco en:  
+
+-Desarrollo proyectos full stack con Python, JavaScript y SQL, desde la arquitectura hasta la implementación.
+-Creo APIs y automatizaciones para conectar con servicios externos.
+-Despliego mis proyectos en AWS y GCP ☁️, explorando nuevas formas de mejorar rendimiento y escalabilidad.
+
+
+**Si te gusta lo que hago o quieres conversar sobre algún proyecto, hablemos  por [LinkedIn](https://www.linkedin.com/in/claucordovab/) 🤓**
+
 
 </details>  
-
----
-## 🎯 Fun facts
-- I drink too much ☕ when debugging.  
-- I like mixing serious backend work with fun side-projects.  
-- Always curious about new tools, but still love the classics.  
+ 
