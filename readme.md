@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Clau
 
-## 👨‍💻 Full-Stack Dev turning ideas into code.
+## 👨‍💻 Full-Stack Dev turning ideas into code
 
 
 I enjoy building projects end-to-end, from setting up databases and APIs to crafting smooth frontends.  
@@ -34,7 +34,7 @@ Most of my focus goes to backend development, but I like keeping things balanced
 - Creating APIs and automations to connect with external services and optimize workflows.
 - Deploying my projects on AWS and GCP, exploring new ways to improve performance and scalability.
 
---
+---
 If you like what I do or want to chat about a project, message me on [LinkedIn](https://www.linkedin.com/in/claucordovab/)
 
 
@@ -51,9 +51,9 @@ If you like what I do or want to chat about a project, message me on [LinkedIn](
 
 🔎 Últimamente me enfoco en:  
 
--Desarrollo proyectos full stack con Python, JavaScript y SQL, desde la arquitectura hasta la implementación.
--Creo APIs y automatizaciones para conectar con servicios externos.
--Despliego mis proyectos en AWS y GCP ☁️, explorando nuevas formas de mejorar rendimiento y escalabilidad.
+- Desarrollo proyectos full stack con Python, JavaScript y SQL, desde la arquitectura hasta la implementación.
+- Creo APIs y automatizaciones para conectar con servicios externos.
+- Despliego mis proyectos en AWS y GCP ☁️, explorando nuevas formas de mejorar rendimiento y escalabilidad.
 
 
 **Si te gusta lo que hago o quieres conversar sobre algún proyecto, hablemos  por [LinkedIn](https://www.linkedin.com/in/claucordovab/) 🤓**
